@@ -1,5 +1,5 @@
 # Starter Web Repo
-Adding line for Rebase example
+Adding line for Rebase example, then more changes from rebase branch
 This repository is for showing how Git and GitHub work
 First time use of Git
 

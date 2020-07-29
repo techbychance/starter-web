@@ -14,7 +14,7 @@ This is example to shhow diiferent parts of the Git Repository and various comma
 ##how to contribute
 
 ##Deployment
-This is a simple web project , deployment can be on any web server
+This is a simple web project , deployment can be on any web server. Quick fix
 
 ##Copyright
-Git Training. All rights reserved
+Git Training. All rights reserved. 

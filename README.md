@@ -17,4 +17,4 @@ This is example to shhow diiferent parts of the Git Repository and various comma
 This is a simple web project , deployment can be on any web server
 
 ##Copyright
-Git Training
+Git Training. All rights reserved
